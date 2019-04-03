@@ -1,0 +1,16 @@
+{
+ "Cisco-IOS-XR-fib-common-oper:fib": {
+  "nodes": {
+   "node": [
+    {
+     "node-name": {
+     },
+     "global": {
+      "summary": {
+      }
+     }
+    }
+   ]
+  }
+ }
+}
